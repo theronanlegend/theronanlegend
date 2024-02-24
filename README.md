@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-Total pull requests merged in GitLab codebase: MERGED_PULL_REQUESTS_COUNT.
+Total pull requests merged in GitLab codebase: 38.
 
 
 <!---
